@@ -1,4 +1,4 @@
-# Vimba C++ SDK 移植指南 - vimba_cpp_example_port
+# Vimba C++ SDK 移植示例
 Allied Vision C++ Example Merge Example.  
 Allied Vision Vimba SDK 2.1.3 C++ 代码移植示例。
 
